@@ -1,0 +1,1 @@
+This package contains breakpoints of frontend framework.
